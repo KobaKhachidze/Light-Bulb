@@ -1,2 +1,1 @@
-[Live-https://kobakhachidze.github.io/Light-Bulb/)https://kobakhachidze.github.io/Light-Bulb/https://kobakhachidze.github.io/Light-Bulb/
-](https://kobakhachidze.github.io/Light-Bulb/)https://kobakhachidze.github.io/Light-Bulb/
+[Live](https://kobakhachidze.github.io/Light-Bulb/)
